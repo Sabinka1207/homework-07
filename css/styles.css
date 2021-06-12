@@ -1,0 +1,11 @@
+.container {
+  display: grid;
+}
+
+.container__img {
+  width: 300px;
+}
+
+li {
+  list-style: none;
+}
